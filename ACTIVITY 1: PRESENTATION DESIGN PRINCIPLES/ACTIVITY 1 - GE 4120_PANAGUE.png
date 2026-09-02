@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+
+<html  dir="ltr" lang="en" xml:lang="en" >
+<head>
+    <title>Log in to the site | Daigler25</title>
+    <meta property="og:title" content="Log in to the site | Daigler25" />
+
+    <!--
+
+      Theme: Space Moodle Theme
+      Author: Marcin Czaja - Rosea Themes (rosea.io)
+      Version: 2.5.39
+
+      Copyright © 2022 - 2026
+
+    -->
+
+    <meta name="theme-color" content="0#fff">
+    <link rel="shortcut icon" href="https://daigler25.addu.edu.ph/pluginfile.php/1/core_admin/favicon/64x64/1787369380/addu_favicon.png" />
+    
+    
+    
+    
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="moodle, Log in to the site | Daigler25" />
+<link rel="stylesheet" type="text/css" href="https://daigler25.addu.edu.ph/theme/yui_combo.php?rollup/3.18.1/yui-moodlesimple-min.css" /><script id="firstthemesheet" type="text/css">/** Required in order to fix style inclusion problems in IE with YUI **/</script><link rel="stylesheet" type="text/css" href="https://daigler25.addu.edu.ph/theme/styles.php/space/1787369380_1787204778/all" />
+<script>
+//<![CDATA[
+var M = {}; M.yui = {};
+M.pageloadstarttime = new Date();
+M.cfg = {"wwwroot":"https:\/\/daigler25.addu.edu.ph","apibase":"https:\/\/daigler25.addu.edu.ph\/r.php\/api","homeurl":{},"sesskey":"SOMMX5Fh09","sessiontimeout":"28800","sessiontimeoutwarning":"1200","themerev":"1787369380","slasharguments":1,"theme":"space","iconsystemmodule":"core\/icon_system_fontawesome","jsrev":"1787369380","admin":"admin","svgicons":true,"usertimezone":"Asia\/Manila","language":"en","courseId":1,"courseContextId":2,"contextid":1,"contextInstanceId":0,"langrev":1787369380,"templaterev":"1787369380","siteId":1,"userId":0};var yui1ConfigFn = function(me) {if(/-skin|reset|fonts|grids|base/.test(me.name)){me.type='css';me.path=me.path.replace(/\.js/,'.css');me.path=me.path.replace(/\/yui2-skin/,'/assets/skins/sam/yui2-skin')}};
+var yui2ConfigFn = function(me) {var parts=me.name.replace(/^moodle-/,'').split('-'),component=parts.shift(),module=parts[0],min='-min';if(/-(skin|core)$/.test(me.name)){parts.pop();me.type='css';min=''}
+if(module){var filename=parts.join('-');me.path=component+'/'+module+'/'+filename+min+'.'+me.type}else{me.path=component+'/'+component+'.'+me.type}};
+YUI_config = {"debug":false,"base":"https:\/\/daigler25.addu.edu.ph\/lib\/yuilib\/3.18.1\/","comboBase":"https:\/\/daigler25.addu.edu.ph\/theme\/yui_combo.php?","combine":true,"filter":null,"insertBefore":"firstthemesheet","groups":{"yui2":{"base":"https:\/\/daigler25.addu.edu.ph\/lib\/yuilib\/2in3\/2.9.0\/build\/","comboBase":"https:\/\/daigler25.addu.edu.ph\/theme\/yui_combo.php?","combine":true,"ext":false,"root":"2in3\/2.9.0\/build\/","patterns":{"yui2-":{"group":"yui2","configFn":yui1ConfigFn}}},"moodle":{"name":"moodle","base":"https:\/\/daigler25.addu.edu.ph\/theme\/yui_combo.php?m\/1787369380\/","combine":true,"comboBase":"https:\/\/daigler25.addu.edu.ph\/theme\/yui_combo.php?","ext":false,"root":"m\/1787369380\/","patterns":{"moodle-":{"group":"moodle","configFn":yui2ConfigFn}},"filter":null,"modules":{"moodle-core-actionmenu":{"requires":["base","event","node-event-simulate"]},"moodle-core-blocks":{"requires":["base","node","io","dom","dd","dd-scroll","moodle-core-dragdrop","moodle-core-notification"]},"moodle-core-chooserdialogue":{"requires":["base","panel","moodle-core-notification"]},"moodle-core-dragdrop":{"requires":["base","node","io","dom","dd","event-key","event-focus","moodle-core-notification"]},"moodle-core-event":{"requires":["event-custom"]},"moodle-core-handlebars":{"condition":{"trigger":"handlebars","when":"after"}},"moodle-core-lockscroll":{"requires":["plugin","base-build"]},"moodle-core-maintenancemodetimer":{"requires":["base","node"]},"moodle-core-notification":{"requires":["moodle-core-notification-dialogue","moodle-core-notification-alert","moodle-core-notification-confirm","moodle-core-notification-exception","moodle-core-notification-ajaxexception"]},"moodle-core-notification-dialogue":{"requires":["base","node","panel","escape","event-key","dd-plugin","moodle-core-widget-focusafterclose","moodle-core-lockscroll"]},"moodle-core-notification-alert":{"requires":["moodle-core-notification-dialogue"]},"moodle-core-notification-confirm":{"requires":["moodle-core-notification-dialogue"]},"moodle-core-notification-exception":{"requires":["moodle-core-notification-dialogue"]},"moodle-core-notification-ajaxexception":{"requires":["moodle-core-notification-dialogue"]},"moodle-core_availability-form":{"requires":["base","node","event","event-delegate","panel","moodle-core-notification-dialogue","json"]},"moodle-course-categoryexpander":{"requires":["node","event-key"]},"moodle-course-dragdrop":{"requires":["base","node","io","dom","dd","dd-scroll","moodle-core-dragdrop","moodle-core-notification","moodle-course-coursebase","moodle-course-util"]},"moodle-course-management":{"requires":["base","node","io-base","moodle-core-notification-exception","json-parse","dd-constrain","dd-proxy","dd-drop","dd-delegate","node-event-delegate"]},"moodle-course-util":{"requires":["node"],"use":["moodle-course-util-base"],"submodules":{"moodle-course-util-base":{},"moodle-course-util-section":{"requires":["node","moodle-course-util-base"]},"moodle-course-util-cm":{"requires":["node","moodle-course-util-base"]}}},"moodle-form-dateselector":{"requires":["base","node","overlay","calendar"]},"moodle-form-shortforms":{"requires":["node","base","selector-css3","moodle-core-event"]},"moodle-question-chooser":{"requires":["moodle-core-chooserdialogue"]},"moodle-question-searchform":{"requires":["base","node"]},"moodle-availability_completion-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-availability_date-form":{"requires":["base","node","event","io","moodle-core_availability-form"]},"moodle-availability_grade-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-availability_group-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-availability_grouping-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-availability_ipaddress-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-availability_profile-form":{"requires":["base","node","event","moodle-core_availability-form"]},"moodle-mod_assign-history":{"requires":["node","transition"]},"moodle-mod_attendance-groupfilter":{"requires":["base","node"]},"moodle-mod_offlinequiz-autosave":{"requires":["base","node","event","event-valuechange","node-event-delegate","io-form"]},"moodle-mod_offlinequiz-dragdrop":{"requires":["base","node","io","dom","dd","dd-scroll","moodle-core-dragdrop","moodle-core-notification","moodle-mod_offlinequiz-offlinequizbase","moodle-mod_offlinequiz-util-base","moodle-mod_offlinequiz-util-page","moodle-mod_offlinequiz-util-slot","moodle-course-util"]},"moodle-mod_offlinequiz-modform":{"requires":["base","node","event"]},"moodle-mod_offlinequiz-offlinequizbase":{"requires":["base","node"]},"moodle-mod_offlinequiz-questionchooser":{"requires":["moodle-core-chooserdialogue","moodle-mod_offlinequiz-util","querystring-parse"]},"moodle-mod_offlinequiz-randomquestion":{"requires":["base","event","node","io","moodle-core-notification-dialogue"]},"moodle-mod_offlinequiz-repaginate":{"requires":["base","event","node","io","moodle-core-notification-dialogue"]},"moodle-mod_offlinequiz-toolboxes":{"requires":["base","node","event","event-key","io","moodle-mod_offlinequiz-offlinequizbase","moodle-mod_offlinequiz-util-slot","moodle-core-notification-ajaxexception"]},"moodle-mod_offlinequiz-util":{"requires":["node"],"use":["moodle-mod_offlinequiz-util-base"],"submodules":{"moodle-mod_offlinequiz-util-base":{},"moodle-mod_offlinequiz-util-slot":{"requires":["node","moodle-mod_offlinequiz-util-base"]},"moodle-mod_offlinequiz-util-page":{"requires":["node","moodle-mod_offlinequiz-util-base"]}}},"moodle-mod_quiz-autosave":{"requires":["base","node","event","event-valuechange","node-event-delegate","io-form","datatype-date-format"]},"moodle-mod_quiz-dragdrop":{"requires":["base","node","io","dom","dd","dd-scroll","moodle-core-dragdrop","moodle-core-notification","moodle-mod_quiz-quizbase","moodle-mod_quiz-util-base","moodle-mod_quiz-util-page","moodle-mod_quiz-util-slot","moodle-course-util"]},"moodle-mod_quiz-modform":{"requires":["base","node","event"]},"moodle-mod_quiz-questionchooser":{"requires":["moodle-core-chooserdialogue","moodle-mod_quiz-util","querystring-parse"]},"moodle-mod_quiz-quizbase":{"requires":["base","node"]},"moodle-mod_quiz-toolboxes":{"requires":["base","node","event","event-key","io","moodle-mod_quiz-quizbase","moodle-mod_quiz-util-slot","moodle-core-notification-ajaxexception"]},"moodle-mod_quiz-util":{"requires":["node","moodle-core-actionmenu"],"use":["moodle-mod_quiz-util-base"],"submodules":{"moodle-mod_quiz-util-base":{},"moodle-mod_quiz-util-slot":{"requires":["node","moodle-mod_quiz-util-base"]},"moodle-mod_quiz-util-page":{"requires":["node","moodle-mod_quiz-util-base"]}}},"moodle-message_airnotifier-toolboxes":{"requires":["base","node","io"]},"moodle-report_eventlist-eventfilter":{"requires":["base","event","node","node-event-delegate","datatable","autocomplete","autocomplete-filters"]},"moodle-report_loglive-fetchlogs":{"requires":["base","event","node","io","node-event-delegate"]},"moodle-gradereport_history-userselector":{"requires":["escape","event-delegate","event-key","handlebars","io-base","json-parse","moodle-core-notification-dialogue"]},"moodle-qbank_editquestion-chooser":{"requires":["moodle-core-chooserdialogue"]},"moodle-tool_lp-dragdrop-reorder":{"requires":["moodle-core-dragdrop"]},"moodle-assignfeedback_editpdf-editor":{"requires":["base","event","node","io","graphics","json","event-move","event-resize","transition","querystring-stringify-simple","moodle-core-notification-dialog","moodle-core-notification-alert","moodle-core-notification-warning","moodle-core-notification-exception","moodle-core-notification-ajaxexception"]}}},"gallery":{"name":"gallery","base":"https:\/\/daigler25.addu.edu.ph\/lib\/yuilib\/gallery\/","combine":true,"comboBase":"https:\/\/daigler25.addu.edu.ph\/theme\/yui_combo.php?","ext":false,"root":"gallery\/1787369380\/","patterns":{"gallery-":{"group":"gallery"}}}},"modules":{"core_filepicker":{"name":"core_filepicker","fullpath":"https:\/\/daigler25.addu.edu.ph\/lib\/javascript.php\/1787369380\/repository\/filepicker.js","requires":["base","node","node-event-simulate","json","async-queue","io-base","io-upload-iframe","io-form","yui2-treeview","panel","cookie","datatable","datatable-sort","resize-plugin","dd-plugin","escape","moodle-core_filepicker","moodle-core-notification-dialogue"]},"core_comment":{"name":"core_comment","fullpath":"https:\/\/daigler25.addu.edu.ph\/lib\/javascript.php\/1787369380\/comment\/comment.js","requires":["base","io-base","node","json","yui2-animation","overlay","escape"]}},"logInclude":[],"logExclude":[],"logLevel":null};
+M.yui.loader = {modules: {}};
+
+//]]>
+</script>
+
+<meta name="robots" content="noindex" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap" rel="stylesheet">
+
+
+    
+
+</head>
+
+<body  id="page-login-index" class="format-site role-none  path-login safari dir-ltr lang-en yui-skin-sam yui3-skin-sam daigler25-addu-edu-ph pagelayout-login course-1 context-1 notloggedin theme rui-login-page rui-login-layout-1">
+    <div class="toast-wrapper mx-auto py-0 fixed-top" role="status" aria-live="polite"></div>
+
+    <div>
+    <a class="visually-hidden-focusable" href="#maincontent">Skip to main content</a>
+</div><script src="https://daigler25.addu.edu.ph/lib/javascript.php/1787369380/lib/polyfills/polyfill.js"></script>
+<script src="https://daigler25.addu.edu.ph/theme/yui_combo.php?rollup/3.18.1/yui-moodlesimple-min.js"></script><script src="https://daigler25.addu.edu.ph/lib/javascript.php/1787369380/lib/javascript-static.js"></script>
+<script>
+//<![CDATA[
+document.body.className += ' jsenabled';
+//]]>
+</script>
+
+
+
+    <div class="rui-login-lang-wrapper"></div>
+
+    <div id="page-login" class="container-fluid p-0 ">
+        <div id="page-content" class="row no-gutters">
+            <div id="region-main-box" class="col-12">
+                <section id="region-main" aria-label="Content">
+                    <div class="login-wrapper">
+                        <div class="login-container">
+                            <div class="main-content" role="main"><span id="maincontent"></span><div class="rui-login-layout 
+         
+        rui-login-layout-simple 
+         
+        rui-login-layout--1
+        
+        
+        
+        
+        ">
+
+
+
+
+
+
+
+
+
+<div class="rui-login-box">
+    <div class="rui-login-content">
+
+        <div class="rui-loginpage-intro">
+                <div class="rui-loginpage-intro-logo  ">
+                        <a href="https://daigler25.addu.edu.ph" class="text-decoration-none">
+                            <h1><img src="//daigler25.addu.edu.ph/pluginfile.php/1/theme_space/customloginlogo/1787369380/SealAdDUDaigler25.png" title="Daigler 2025 Moodle server" alt="Daigler 2025 Moodle server" class="rui-login-logo img-fluid" /></h1>
+                            
+                        </a>
+
+                </div>
+
+
+        </div>
+
+
+
+        <div class="rui-login-form">
+
+            <form action="https://daigler25.addu.edu.ph/login/index.php" method="post" id="login">
+                <input id="anchor" type="hidden" name="anchor" value="">
+                <script>
+                    document.getElementById('anchor').value = location.hash;
+                </script>
+                <input type="hidden" name="logintoken" value="bbr6DGbtp5p0LB9v8l9H6H0UyhIsF4Wy">
+                <div class="form-group mb-2 form-control--username-box">
+                    <label for="username" class="sr-only">
+                            Username
+                    </label>
+                    <input type="text" name="username" id="username" class="form-control form-control--username" value="" placeholder="Username" autocomplete="username">
+                </div>
+                <div class="form-group my-1 form-control--password-box">
+                    <label for="password" class="sr-only">Password</label>
+                    <input type="password" name="password" id="password" value="" class="form-control form-control--password" placeholder="Password" autocomplete="current-password">
+                    <button class="rui-show-password-btn rui-show-password-btn--hidden border-0" id="togglePassword" tabindex="0" type="button" aria-pressed="false" title="Show/Hide Password">
+                        <span class="sr-only">Show/Hide Password</span>
+                        <svg class="showpassword-icon--off" width="24" height="24" fill="none" viewBox="0 0 24 24">
+                            <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19.25 12C19.25 13 17.5 18.25 12 18.25C6.5 18.25 4.75 13 4.75 12C4.75 11 6.5 5.75 12 5.75C17.5 5.75 19.25 11 19.25 12Z"></path>
+                            <circle cx="12" cy="12" r="2.25" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></circle>
+                        </svg>
+                        <svg class="showpassword-icon--on" width="24" height="24" fill="none" viewBox="0 0 24 24">
+                            <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M18.6247 10C19.0646 10.8986 19.25 11.6745 19.25 12C19.25 13 17.5 18.25 12 18.25C11.2686 18.25 10.6035 18.1572 10 17.9938M7 16.2686C5.36209 14.6693 4.75 12.5914 4.75 12C4.75 11 6.5 5.75 12 5.75C13.7947 5.75 15.1901 6.30902 16.2558 7.09698"></path>
+                            <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M19.25 4.75L4.75 19.25"></path>
+                            <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M10.409 13.591C9.53033 12.7123 9.53033 11.2877 10.409 10.409C11.2877 9.5303 12.7123 9.5303 13.591 10.409"></path>
+                        </svg>
+                    </button>
+                </div>
+                    <div class="w-100 text-center">
+                        <a class="rui-login-forgot-btn" href="https://daigler25.addu.edu.ph/login/forgot_password.php">Forgotten your username or password?</a>
+                    </div>
+                
+                <button type="submit" class="btn btn-lg btn-primary btn-block mt-3" id="loginbtn">Log in</button>
+            </form>
+        </div><!-- .rui-login-form -->
+
+
+        <div class="rui-login-additional-btns">
+            <hr class="hr-small" />
+                <div class="rui-canloginasguest mt-2" title="Some courses may allow guest access">
+                    <p class="small text-center">Some courses may allow guest access</p>
+                    <form action="https://daigler25.addu.edu.ph/login/index.php" method="post" id="guestlogin">
+                        <input type="hidden" name="logintoken" value="bbr6DGbtp5p0LB9v8l9H6H0UyhIsF4Wy">
+                        <input type="hidden" name="username" value="guest" />
+                        <input type="hidden" name="password" value="guest" />
+                        <button class="btn btn-sm btn-outline-secondary w-100" type="submit" id="loginguestbtn">Access as a guest</button>
+                    </form>
+                </div>
+        </div><!-- .rui-additional-btns -->
+
+
+
+
+
+    </div><!-- .rui-login-content -->
+
+</div><!-- .rui-login-box -->
+
+
+
+
+
+
+<button type="button" class="btn btn-xs btn-dark btn--cookie"  data-modal="alert"  data-modal-title-str='["cookiesenabled", "core"]'  data-modal-content-str='["cookiesenabled_help_html", "core"]' >
+    <svg width="20" height="20" fill="none" viewBox="0 0 24 24">
+        <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 13V15"></path>
+        <circle cx="12" cy="9" r="1" fill="currentColor"></circle>
+        <circle cx="12" cy="12" r="7.25" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></circle>
+    </svg>
+
+    <span class="ml-1">Cookies notice</span></button>
+
+</div><!-- .login layout -->
+
+<script>
+    const togglePassword = document.querySelector("#togglePassword");
+    const password = document.querySelector("#password");
+
+    togglePassword.addEventListener("click", function() {
+        // toggle the type attribute
+        const type = password.getAttribute("type") === "password" ? "text" : "password";
+        password.setAttribute("type", type);
+
+        // toggle the icon
+        this.classList.toggle("rui-show-password-btn--hidden");
+    });
+</script></div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </div>
+    </div>
+
+    
+    <script>
+//<![CDATA[
+var require = {
+    baseUrl : 'https://daigler25.addu.edu.ph/lib/requirejs.php/1787369380/',
+    // We only support AMD modules with an explicit define() statement.
+    enforceDefine: true,
+    skipDataMain: true,
+    waitSeconds : 0,
+
+    paths: {
+        jquery: 'https://daigler25.addu.edu.ph/lib/javascript.php/1787369380/lib/jquery/jquery-3.7.1.min',
+        jqueryui: 'https://daigler25.addu.edu.ph/lib/javascript.php/1787369380/lib/jquery/ui-1.14.1/jquery-ui.min',
+        jqueryprivate: 'https://daigler25.addu.edu.ph/lib/javascript.php/1787369380/lib/requirejs/jquery-private'
+    },
+
+    // Custom jquery config map.
+    map: {
+      // '*' means all modules will get 'jqueryprivate'
+      // for their 'jquery' dependency.
+      '*': { jquery: 'jqueryprivate' },
+
+      // 'jquery-private' wants the real jQuery module
+      // though. If this line was not here, there would
+      // be an unresolvable cyclic dependency.
+      jqueryprivate: { jquery: 'jquery' }
+    }
+};
+
+//]]>
+</script>
+<script src="https://daigler25.addu.edu.ph/lib/javascript.php/1787369380/lib/requirejs/require.min.js"></script>
+<script>
+//<![CDATA[
+M.util.js_pending("core/first");
+require(['core/first'], function() {
+require(['core/prefetch'])
+;
+M.util.js_pending('filter_mathjaxloader/loader'); require(['filter_mathjaxloader/loader'], function(amd) {amd.configure({"mathjaxurl":"https:\/\/cdn.jsdelivr.net\/npm\/mathjax@3.2.2\/es5\/tex-mml-chtml.js","mathjaxconfig":"","lang":"en"}); M.util.js_complete('filter_mathjaxloader/loader');});;
+require(["media_videojs/loader"], function(loader) {
+    loader.setUp('en');
+});;
+
+    M.util.js_pending('theme_boost/loader');
+    require(['theme_boost/loader'], function() {
+    M.util.js_complete('theme_boost/loader');
+    });
+;
+
+    require(['core_form/submit'], function(Submit) {
+        Submit.init("loginbtn");
+            Submit.init("loginguestbtn");
+    });
+;
+M.util.js_pending('core/notification'); require(['core/notification'], function(amd) {amd.init(1, []); M.util.js_complete('core/notification');});;
+M.util.js_pending('core/log'); require(['core/log'], function(amd) {amd.setConfig({"level":"warn"}); M.util.js_complete('core/log');});;
+M.util.js_pending('core/page_global'); require(['core/page_global'], function(amd) {amd.init(); M.util.js_complete('core/page_global');});;
+M.util.js_pending('core/utility'); require(['core/utility'], function(amd) {M.util.js_complete('core/utility');});;
+M.util.js_pending('core/storage_validation'); require(['core/storage_validation'], function(amd) {amd.init(null); M.util.js_complete('core/storage_validation');});
+    M.util.js_complete("core/first");
+});
+//]]>
+</script>
+<script>
+//<![CDATA[
+M.str = {"moodle":{"lastmodified":"Last modified","name":"Name","error":"Error","info":"Information","yes":"Yes","no":"No","cancel":"Cancel","confirm":"Confirm","areyousure":"Are you sure?","closebuttontitle":"Close","unknownerror":"Unknown error","file":"File","url":"URL","collapseall":"Collapse all","expandall":"Expand all"},"repository":{"type":"Type","size":"Size","invalidjson":"Invalid JSON string","nofilesattached":"No files attached","filepicker":"File picker","logout":"Logout","nofilesavailable":"No files available","norepositoriesavailable":"Sorry, none of your current repositories can return files in the required format.","fileexistsdialogheader":"File exists","fileexistsdialog_editor":"A file with that name has already been attached to the text you are editing.","fileexistsdialog_filemanager":"A file with that name has already been attached","renameto":"Rename to \"{$a}\"","referencesexist":"There are {$a} links to this file","select":"Select"},"admin":{"confirmdeletecomments":"Are you sure you want to delete the selected comment(s)?","confirmation":"Confirmation"},"debug":{"debuginfo":"Debug info","line":"Line","stacktrace":"Stack trace"},"langconfig":{"labelsep":": "}};
+//]]>
+</script>
+<script>
+//<![CDATA[
+(function() {M.util.help_popups.setup(Y);
+ M.util.js_pending('random6a9810262ab2a2'); Y.on('domready', function() { M.util.js_complete("init");  M.util.js_complete('random6a9810262ab2a2'); });
+})();
+//]]>
+</script>
+
+
+
+</body></html>
