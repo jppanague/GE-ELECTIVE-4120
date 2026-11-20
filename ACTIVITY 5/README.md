@@ -22,5 +22,6 @@ Through this activity, I gained the following knowledge and skills:
 This activity taught me that the quality of an AI-generated image depends partly on how clearly the user communicates their ideas. A well-written prompt can make the result more detailed, accurate, and useful.
 
 ---
-
-*Clear prompts turn creative ideas into meaningful visuals. ♡*
+<p align="center">
+✨ <i>Clear prompts turn creative ideas into meaningful visuals.</i> ♡
+</p>
