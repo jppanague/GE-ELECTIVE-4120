@@ -22,5 +22,7 @@ Through this activity, I gained the following knowledge and skills:
 This activity taught me that technology and AI can make everyday tasks, such as financial management, easier and more organized. A good website should not only have an attractive design but also provide practical solutions to real-life problems.
 
 ---
+<p align="center">
+💰 <i>Plan wisely, spend mindfully, and save for the future.</i> ♡
+</p>
 
-*Plan wisely, spend mindfully, and save for the future. ♡*
