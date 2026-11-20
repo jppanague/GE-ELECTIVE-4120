@@ -3,10 +3,10 @@
 
 ---
 
-### ✦ About the Activity
+### ୨୧ About the Activity
 This activity focused on creating a functional personal budgeting website called **Pennywise Budget Planner** using Replit AI. The goal was to develop a user-friendly platform that helps users manage their finances by tracking monthly income, expenses, remaining balance, and savings. The website includes features such as transaction management, monthly budgets, savings goals, financial reports, and settings, using a clean and minimalist design.
 
-### ✦ What Have I Learned?
+### ୨୧ What Have I Learned?
 
 Through this activity, I gained the following knowledge and skills:
 
@@ -18,7 +18,7 @@ Through this activity, I gained the following knowledge and skills:
 
 ---
 
-### ✦ Key Takeaway
+### ୨୧ Key Takeaway
 This activity taught me that technology and AI can make everyday tasks, such as financial management, easier and more organized. A good website should not only have an attractive design but also provide practical solutions to real-life problems.
 
 ---
