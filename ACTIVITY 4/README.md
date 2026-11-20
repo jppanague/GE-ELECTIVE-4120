@@ -3,10 +3,10 @@
 
 ---
 
-### ✦ About the Activity
+### ୨୧ About the Activity
 This activity focused on discussing and presenting **Google Docs**, an online word-processing application developed by Google. The presentation aimed to introduce its features, functions, and practical uses in creating, editing, formatting, and sharing documents. It also highlighted how Google Docs supports collaboration by allowing multiple users to work on the same document and access their files online.
 
-### ✦ What Have I Learned?
+### ୨୧ What Have I Learned?
 
 Through this activity, I gained the following knowledge and skills:
 
@@ -18,7 +18,7 @@ Through this activity, I gained the following knowledge and skills:
 
 ---
 
-### ✦ Key Takeaway
+### ୨୧ Key Takeaway
 This activity taught me that Google Docs is a practical tool for making academic and professional tasks more convenient and organized. It also showed me how digital platforms can improve productivity, accessibility, and collaboration.
 
 ---
