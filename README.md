@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="profile.jpg" width="180" alt="Jasmine's Profile Picture">
+<img src="profile.JPG" width="180" alt="Jasmine's Profile Picture">
 
 # 💙 Jasmine Padillo Panague
 
