@@ -3,10 +3,10 @@
 
 ---
 
-### ✦ About the Activity
+### ୨୧ About the Activity
 This activity focused on using **Gemini** to generate scenery images through written prompts. I first used a simple prompt, "Make me a scenery," and then created a second, more detailed prompt describing green mountains, a crystal-clear lake, colorful wildflowers, tall trees, sunlight, birds, and mist. I compared the two generated images based on how well they followed the prompts, their visual details, and their usefulness.
 
-### ✦ What Have I Learned?
+### ୨୧ What Have I Learned?
 
 Through this activity, I gained the following knowledge and skills:
 
@@ -18,7 +18,7 @@ Through this activity, I gained the following knowledge and skills:
 
 ---
 
-### ✦ Key Takeaway
+### ୨୧ Key Takeaway
 This activity taught me that the quality of an AI-generated image depends partly on how clearly the user communicates their ideas. A well-written prompt can make the result more detailed, accurate, and useful.
 
 ---
