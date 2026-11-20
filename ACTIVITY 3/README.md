@@ -23,4 +23,7 @@ This activity taught me that effective health education combines clear communica
 
 ---
 
- 🦟 Small actions, informed communities, and shared responsibility can help prevent dengue. 
+<p align="center">
+  🦟 <i>Small actions, informed communities, and shared responsibility can help prevent dengue.</i> ♡
+</p>
+  
