@@ -3,10 +3,10 @@
 
 ---
 
-### ✦ About the Activity
+### ୨୧ About the Activity
 This activity focused on creating an infographic about **Dengue: A Growing Threat** and preparing a project proposal for **DengueWatch**, a digital dengue prevention and community-based monitoring system. The infographic presents important information about dengue, its effects, common mosquito-breeding places, and people at risk. The project proposal introduces a digital platform where residents can report suspected breeding sites to help community health workers monitor and follow up on reports.
 
-### ✦ What Have I Learned?
+### ୨୧ What Have I Learned?
 
 Through this activity, I gained the following knowledge and skills:
 
@@ -18,7 +18,7 @@ Through this activity, I gained the following knowledge and skills:
 
 ---
 
-### ✦ Key Takeaway
+### ୨୧ Key Takeaway
 This activity taught me that effective health education combines clear communication, visual presentation, and community participation. Technology can also support prevention by helping people work together to address health concerns.
 
 ---
