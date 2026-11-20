@@ -3,10 +3,10 @@
 
 ---
 
-### ✦ About the Activity
+### ୨୧ About the Activity
 This activity focused on generating a professional one-page resume using two AI tools, **ChatGPT and Gemini**. The goal was to create a clean, modern, and professional resume suitable for an entry-level nursing position or hospital On-the-Job Training (OJT) application. Both AI tools were given the same instructions, and their outputs were compared based on structure, visual presentation, formatting, and overall quality to determine which generated the better resume.
 
-### ✦ What Have I Learned?
+### ୨୧ What Have I Learned?
 
 Through this activity, I gained the following knowledge and skills:
 
@@ -18,7 +18,7 @@ Through this activity, I gained the following knowledge and skills:
 
 ---
 
-### ✦ Key Takeaway
+### ୨୧ Key Takeaway
 This activity taught me that AI tools can make resume creation easier, but comparing and evaluating their outputs is important to achieve a professional result. Choosing the right format and presenting relevant qualifications clearly can make a resume more effective.
 
 ---
