@@ -22,5 +22,7 @@ Through this activity, I gained the following knowledge and skills:
 This activity taught me that AI tools can make resume creation easier, but comparing and evaluating their outputs is important to achieve a professional result. Choosing the right format and presenting relevant qualifications clearly can make a resume more effective.
 
 ---
+<p align="center">
+📄 <i>Building a professional future, one opportunity at a time.</i> ♡
+</p>
 
-*Building a professional future, one opportunity at a time. ♡*
