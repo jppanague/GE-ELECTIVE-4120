@@ -3,7 +3,7 @@
 
 <img src="profile.JPG" width="180" alt="Jasmine's Profile Picture">
 
-# 💙 Jasmine Padillo Panague
+# Jasmine Padillo Panague
 
 ### BSN Student | Future Registered Nurse
 
