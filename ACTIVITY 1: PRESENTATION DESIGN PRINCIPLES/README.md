@@ -1,13 +1,33 @@
 
-# Activity: Free Coffee Day Poster Design
+# ☕ Free Coffee Day
+### `Promotional Poster Design`
 
-## Short Description
-This activity involved creating a promotional poster for a Free Coffee Day event. The poster was designed to provide important event information, including the date, time, location, and promotional details. It focused on using appropriate colors, typography, illustrations, and visual elements to create an attractive and informative design.
+<p align="center">
+  <i>Creativity brewed into design.</i>
+</p>
 
-## What Have I Learned?
+---
 
-- I learned how to combine colors, typography, and graphic elements to create an eye-catching promotional poster.
-- I gained a better understanding of visual hierarchy by emphasizing important information, such as the event title, date, time, and location.
-- One challenge I encountered was arranging the text and illustrations while keeping the poster organized and readable. I addressed this by adjusting the placement, size, and spacing of the elements.
-- I also learned the importance of choosing colors and fonts that complement each other and match the theme of the activity.
-- In the future, I can apply these skills when creating promotional materials, advertisements, and other graphic designs. I also aim to improve my creativity and layout techniques.
+### ୨୧ Activity Overview
+
+This activity involved designing a promotional poster for a **Free Coffee Day** event. The main objective was to create an eye-catching and informative design by incorporating suitable typography, colors, illustrations, and layouts. The poster highlights the event's important details while maintaining a fun and inviting coffee-themed appearance.
+
+### ୨୧ What Have I Learned?
+
+Through this activity, I was able to develop and improve my graphic design skills.
+
+- **Design Principles** — Learned how to combine colors, typography, and illustrations to create an attractive visual presentation.
+- **Visual Hierarchy** — Understood how to emphasize important information to make the poster clear and easy to understand.
+- **Creativity** — Explored different design elements and layouts to achieve a cohesive coffee-themed concept.
+- **Challenges & Solutions** — One challenge was arranging the text and illustrations without overcrowding the poster. I addressed this by adjusting the spacing, sizes, and placement of each element.
+- **Future Application** — I can use these skills in creating future promotional materials and digital designs while continuing to improve my creativity and attention to detail.
+
+### ୨୧ Key Takeaway
+
+This activity taught me that good graphic design is not just about making something visually appealing, but also about delivering a message in a clear, creative, and meaningful way.
+
+---
+
+<p align="center">
+  ☕ <i>Every design starts with an idea.</i> ♡
+</p>
