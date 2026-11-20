@@ -22,5 +22,7 @@ Through this activity, I gained the following knowledge and skills:
 This activity taught me that Google Docs is a practical tool for making academic and professional tasks more convenient and organized. It also showed me how digital platforms can improve productivity, accessibility, and collaboration.
 
 ---
+<p align="center">
+📝 <i>Write, create, collaborate, and make every document count.</i> ♡
+</p>
 
-*Write, create, collaborate, and make every document count. ♡*
